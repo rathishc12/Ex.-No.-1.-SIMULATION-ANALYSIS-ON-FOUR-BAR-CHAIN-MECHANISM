@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.1  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
 
@@ -14,7 +14,7 @@
 ###  ●	Mech Analyzer software.
 ###  ●	Processor: Minimum 1.5 GHz
 ###  ●	RAM: Minimum 512 MB
-###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.a
 ###  ●	Dependencies: Microsoft .Net 2.0 framework
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Yuvaranithulasingam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121418522/673d2dae-79e7-4862-9c0d-5163e29ae703)
 
 
-### Name:
-### Register Number: 
+### Name:RATHISH KUMAR C
+### Register Number: 212222100043
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
